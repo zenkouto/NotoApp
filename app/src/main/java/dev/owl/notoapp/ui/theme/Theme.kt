@@ -12,7 +12,7 @@ private val DarkColorPalette = darkColors(
     background = Color.Black,
     onBackground = Color.White,
     surface = LightBlue,
-    onSurface = DarkGray
+    onSurface = Color.Black,
 )
 
 

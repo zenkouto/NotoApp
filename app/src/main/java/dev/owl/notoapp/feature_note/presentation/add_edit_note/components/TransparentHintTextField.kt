@@ -1,5 +1,6 @@
 package dev.owl.notoapp.feature_note.presentation.add_edit_note.components
 
+import android.service.autofill.OnClickAction
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.text.BasicTextField
@@ -20,6 +21,7 @@ fun TransparentHintTextField(
     onValueChange:(String) -> Unit,
     textStyle: TextStyle = TextStyle(),
     singleLine: Boolean = false,
+    onClick:(FocusState) -> Unit,
     onFocusChange:(FocusState) -> Unit
 ){
     Box(modifier = modifier){

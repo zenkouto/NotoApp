@@ -16,7 +16,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavController
-import dev.owl.notoapp.feature_note.domain.model.Note
 import dev.owl.notoapp.feature_note.presentation.notes.components.NoteItem
 import dev.owl.notoapp.feature_note.presentation.notes.components.OrderSection
 import dev.owl.notoapp.feature_note.presentation.util.Screen
