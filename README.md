@@ -1,4 +1,4 @@
 # NotoApp
 ### Simple Note App using Jetpack Compose
-**this app was made by following** [@philipplackner](https://github.com/philipplackner)'s [tutorial](https://youtu.be/8YPXv7xKh2w)
 ---
+this dev branch is meant for experimenting with code for newbies (only reasonable PRs will be merged)
